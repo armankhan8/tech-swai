@@ -4,6 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
+  base: "/tech-swai/", // ✅ Yeh GitHub Pages ke liye required hai
   server: {
     host: "::",
     port: 8080,
@@ -17,5 +18,4 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/swaitech/", // GitHub repo name added here
 }));
