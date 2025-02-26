@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Phone",
-      details: "+919718668809",
-      link: "tel:+919718668809",
+      details: "+918130857008",
+      link: "tel:+918130857008",
     },
     {
       icon: <MessageCircle className="h-6 w-6" />,
