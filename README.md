@@ -25,8 +25,10 @@ We specialize in creating custom, professional websites for businesses, portfoli
 - **E-commerce Solutions**: Setting up online stores with a focus on user experience and performance.
 
 ## 📫 Get In Touch:
-- **Email**: [your-email@example.com]
-- **Instagram**: [Instagram Handle]
-- **Website**: [Swai Tech Website Link]
+- **Email**: armaankhan813085@gmail.com
+- **Instagram**: @swai_tech
+- **Website**: https://armankhan8.github.io/
+
+
 
 Let’s work together to bring your ideas to life! 🚀
